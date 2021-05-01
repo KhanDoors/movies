@@ -1,5 +1,7 @@
+import "./Trending.css";
+
 const Trending = () => {
-  return <div>Tremding</div>;
+  return <div className="trending">Trending</div>;
 };
 
 export default Trending;
